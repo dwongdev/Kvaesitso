@@ -905,4 +905,15 @@
     <string name="gesture_action_launch_select_app">Выбрать приложение или ярлык</string>
     <string name="gesture_action_feed">Новостная лента</string>
     <string name="confirmation_delete_shapes_scheme">Вы действительно хотите удалить форму \"%1$s\"?</string>
+    <string name="preference_create_shapes">Новая форма</string>
+    <string name="preference_create_typography">Новая типографика</string>
+    <string name="confirmation_delete_typography_scheme">Вы действительно хотите удалить типографику %1$s?</string>
+    <string name="confirmation_delete_transparencies_scheme">Вы действительно хотите удалить настройку прозрачности %1$s?</string>
+    <string name="import_theme_exists">Тема уже существует и будет обновлена</string>
+    <string name="clock_variant_analog_ticks">Деления</string>
+    <string name="bad_configuration_summary">Вы обнаружили комбинацию настроек, которая делает недоступными и поиск, и настройки одновременно, успешно блокируя вам доступ к лаунчеру.</string>
+    <string name="preference_screen_locale">Язык и регион</string>
+    <string name="preference_screen_locale_summary">Язык, единицы измерения, формат времени</string>
+    <string name="preference_language">Язык</string>
+    <string name="preference_value_system_default">Как в системе</string>
 </resources>
